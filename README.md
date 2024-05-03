@@ -1,8 +1,3 @@
-<div id="header" align="left">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTR5ZDVyemFoZGF4MWtzZXh2cnNlZGZ5ajlycHN4Z2g2YTBvbWs2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T7unFDeItuu3OsGUcn/giphy.gif" width="250"/>
-</div>
-
-
 <div id="badges">
   
   
@@ -21,6 +16,10 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=glancione&style=flat-square&color=blue" alt="Profile Visit Counter"/>
+<div id="header" align="left">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTR5ZDVyemFoZGF4MWtzZXh2cnNlZGZ5ajlycHN4Z2g2YTBvbWs2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T7unFDeItuu3OsGUcn/giphy.gif" width="250"/>
+</div>
+
 <h1>
   I am just a friendly neighborhood Data Scientist <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
