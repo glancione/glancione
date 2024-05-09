@@ -95,10 +95,10 @@ I am a Data Scientist from Italy.
 
 ### Certifications:
 
-    * 24 Ore Business School - Leadership and People Management 
-    * 24 Ore Business School - Project Management - Time & Cost Monitoring
+    * 24Ore Business School - Leadership and People Management 
+    * 24Ore Business School - Project Management - Time and Cost Monitoring
     * Microsoft - Microsoft Certified Azure Data Scientist Associate (DP-100)
-    * CEFRIEL S.Cons.r.l. - Software Development for ML & Big Data
+    * CEFRIEL S.Cons.r.l. - Software Development for ML and Big Data
     * Coursera - Machine Learning with Tensorflow on Google Cloud Specialization
     * Coursera - Deep Learning Specialization
     * Coursera - Applied Data Science with Python Specialization
