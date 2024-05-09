@@ -43,13 +43,13 @@ I am a Data Scientist from Italy.
 ----------
 ### Education:
 
-**10/2007 - 12/2010** - Bsc Mathematics and Applications; University of Camerino (Camerino, MC, Italy)
-
-    * Thesis title: Martingales and Gambling
-
 **10/2010 - 12/2013** - Msc, Mathematics and Applications; University of Camerino (Camerino, MC, Italy)
 
     * Thesis title: Control of Wind Energy Conversion Systems
+
+**10/2007 - 12/2010** - Bsc Mathematics and Applications; University of Camerino (Camerino, MC, Italy)
+
+    * Thesis title: Martingales and Gambling
     
 ----------
 ### Work Experience:
