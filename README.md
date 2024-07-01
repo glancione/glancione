@@ -10,9 +10,6 @@
   <a href="https://github.com/glancione/data-science">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="https://mastodon.social/@glancione">
-    <img src="https://img.shields.io/badge/Mastodon-purple?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
-  </a>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=glancione&style=flat-square&color=blue" alt="Profile Visit Counter"/>
