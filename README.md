@@ -127,8 +127,12 @@ I am a Data Scientist from Italy.
 
 ----------
 
+
+<!---
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=glancione&theme=dark&background=000000)](https://git.io/streak-stats)
+--->
 
 <!---
 glancione/profile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
