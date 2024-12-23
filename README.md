@@ -21,11 +21,11 @@
   I am just a friendly neighborhood Data Scientist <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-    MyAddress   pm.me.unmindful337@slmails.com
+    My Address:   pm.me.unmindful337@slmails.com
 
-    MyTown               Senigallia, AN, 60019
+    My Town:                     Fano, PU, 61032
 
-    MyCountry                            Italy
+    My Country:                            Italy
 
 On my GitHub Profile I write about things I am familiar with and things that I am learning. Day to day I make things with data using python.
 
@@ -53,7 +53,9 @@ I am a Data Scientist from Italy.
 
 **05/2024 - Present** - Data Scientist at Teamsystem (Pesaro, Italy):
 
-    * ...
+    * Development of ML and AI algorithms on Microsoft Azure and Databricks.
+    * AI services Deployment.
+    * Data Analysis and Processing.
 
 **02/2022 - 04/2024** - Data Scientist at BRT (Milan, MI, Italy - Bologna, BO, Italy):
 
